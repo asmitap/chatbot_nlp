@@ -1,0 +1,6 @@
+spacy
+dateparser
+parsedatetime
+sentence-transformers
+transformers
+chromadb
